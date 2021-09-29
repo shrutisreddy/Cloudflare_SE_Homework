@@ -1,0 +1,15 @@
+{
+  "name": "cloudflare",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Shruti Reddy <shrutisreddy@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "@cloudflare/wrangler": "^1.19.3",
+    "express": "^4.17.1"
+  }
+}
